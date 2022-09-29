@@ -1,8 +1,8 @@
 ---
-source-git-commit: e8f4ca2dd578944d4fe399074fab461de88ad247
+source-git-commit: 0c3e421beca46d9fe1952b1f98538a50697216a0
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 100%
+source-wordcount: '427'
+ht-degree: 91%
 
 ---
 # Artikel om att bidra
@@ -35,7 +35,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Stora förändringar från anställda hos Adobe
 
-Om du är teknikskribent, programchef eller utvecklare för en lösning i Adobe Experience Cloud och det är ditt jobb att bidra till eller skriva tekniska artiklar bör du använda den privata databasen på `https://git.corp.adobe.com/AdobeDocs`.
+Om du är teknikskribent, programchef eller utvecklare för en [!UICONTROL Adobe Experience Cloud] och det är ditt jobb att bidra till eller skriva tekniska artiklar, du bör använda det privata arkivet på `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
