@@ -6,8 +6,8 @@ index: true
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.sv-SE
 source-git-commit: 0f546139887bd42346c58b8aa0ef76015688601c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 85%
 
 ---
 
