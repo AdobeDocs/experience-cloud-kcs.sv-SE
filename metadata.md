@@ -6,15 +6,15 @@ index: true
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.sv-SE
 source-git-commit: 0f546139887bd42346c58b8aa0ef76015688601c
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Metadata för intern användning
 
-The [!DNL metadata.md] -filen innehåller metadata på postnivå som skickas till användarhandboken [!DNL TOC.md] i svaret. Om du vill ändra innehåll i metadata.md för någon användarhandbok gör du detta i en TOC.md-fil.
+The [!DNL metadata.md] -filen innehåller metadata på postnivå som skickas till användarhandboken [!DNL TOC.md] i svaret. Om du vill ändra innehållet för metadata.md för en användarhandbok gör du det i en TOC.md-fil.
 
 | metadata | vad gör den |
 |--- |--- |
